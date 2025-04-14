@@ -329,7 +329,8 @@
         <mxCell id="kQPhwr7gHGLsyz1x1msp-205" value="1:n" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.13;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="341" />
+              <mxPoint x="280" y="320" />
+              <mxPoint x="270" y="350" />
               <mxPoint x="242" y="621" />
             </Array>
             <mxPoint x="275.32000000000016" y="291" as="sourcePoint" />
